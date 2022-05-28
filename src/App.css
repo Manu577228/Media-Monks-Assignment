@@ -1,0 +1,110 @@
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 20px !important;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet {
+  background-color: white;
+  margin-top: -2rem;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: darkgray;
+}
+
+.header {
+  color: white;
+  margin-top: -39rem;
+  margin-left: 2rem;
+}
+
+.para {
+  color: white;
+  margin-top: 27rem;
+  margin-left: 2rem;
+}
+
+.header-two {
+  color: white;
+  margin-top: -21.5rem;
+  margin-left: 5rem;
+}
+
+.header-three {
+  color: white;
+  margin-top: -21.5rem;
+  margin-left: 62rem;
+}
+
+.last-page {
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps {
+  margin-top: 8rem;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps-five {
+  margin-top: 4rem;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps-two {
+  margin-top: 6rem;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps-three {
+  margin-top: 12rem;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps-four {
+  margin-top: 6rem;
+  color: white;
+  font-size: 0.8rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  margin-top: -13rem;
+  margin-left: 80rem;
+}
